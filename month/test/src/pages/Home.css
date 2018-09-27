@@ -1,0 +1,48 @@
+.home{
+    margin: 0;
+    padding: 0;
+}
+.home .left ul li{
+    list-style: none;
+}
+.up{
+    width: 100%;
+    height: 80px;
+    background: #324057;
+    color: white;   
+}
+.up p{
+    float: left;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.home{
+    width: 100%;
+    height: 800px;
+}
+
+.dum{
+    width: 100%;
+    height: 800px;  
+}
+.left{
+    float: left;
+    width: 12%;
+    height: 740px;
+    background: #324057;
+}
+.right{
+    float: left;
+    width: 88%;
+    height: 740px;
+    background: white;
+}
+.left ul{
+    margin-left: -80px;
+    line-height: 50px;
+    font-size: 16px;
+    color: white;
+}
+.right img{
+    width: 100%;
+}
